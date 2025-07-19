@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main() {
+int num1=3;
+int num2=4;
+int sum= num1 + num2;
+cout << "sum is: "<< sum <<endl;
+return 0;	
+}
